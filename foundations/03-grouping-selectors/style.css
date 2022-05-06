@@ -1,0 +1,15 @@
+.firstClass,
+.secondClass{   
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.firstClass{
+    color:white;
+    background-color: black;
+}
+
+.secondClass{
+    color: black;
+    background-color: yellow;
+}
